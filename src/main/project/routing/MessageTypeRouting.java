@@ -1,4 +1,4 @@
-package project;
+package project.routing;
 
 public enum MessageTypeRouting {
     HELLO,

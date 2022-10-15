@@ -1,7 +1,8 @@
-package project;
+package project.routing;
 
 import java.util.List;
 
+//Modulo de Aplicacion, Distance Vector
 public class MessageJsonRoutingDV extends MessageJsonRoutingBase {
     private List<Vector> vectors;
 

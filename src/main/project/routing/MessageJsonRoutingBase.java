@@ -1,8 +1,8 @@
-package project;
+package project.routing;
 
 import tcp.model.MessageType;
 
-//Modulo de Routing
+//Modulo de Routing, Mensaje base
 public class MessageJsonRoutingBase {
     private String from;
     private MessageType type;
